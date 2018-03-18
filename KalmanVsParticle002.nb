@@ -21590,9 +21590,6 @@ CellTagsIndex->{
  "c:1"->{
   Cell[580, 22, 491, 6, 117, "Title",ExpressionUUID->"46e72bbd-9d98-4fc3-a048-c627688b2d9e",
    CellTags->"c:1"]},
- "c:9"->{
-  Cell[5115, 115, 218, 3, 70, "Chapter",ExpressionUUID->"5ca12084-879f-4910-924b-31070b62bbff",
-   CellTags->"c:9"]},
  "c:10"->{
   Cell[64107, 1439, 256, 3, 317, "Subchapter",ExpressionUUID->"eb9ecf3c-cbf2-4418-a417-8f947ee7be76",
    CellTags->"c:10"]},
@@ -21604,17 +21601,20 @@ CellTagsIndex->{
    CellTags->"c:14"]},
  "c:15"->{
   Cell[232119, 5165, 241, 3, 80, "Subchapter",ExpressionUUID->"08896713-5645-41eb-8d53-64e0ec086c76",
-   CellTags->"c:15"]}
+   CellTags->"c:15"]},
+ "c:9"->{
+  Cell[5115, 115, 218, 3, 70, "Chapter",ExpressionUUID->"5ca12084-879f-4910-924b-31070b62bbff",
+   CellTags->"c:9"]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
  {"c:1", 1146360, 21589},
- {"c:9", 1146485, 21592},
- {"c:10", 1146614, 21595},
- {"c:13", 1146750, 21598},
- {"c:14", 1146882, 21601},
- {"c:15", 1147015, 21604}
+ {"c:10", 1146486, 21592},
+ {"c:13", 1146622, 21595},
+ {"c:14", 1146754, 21598},
+ {"c:15", 1146887, 21601},
+ {"c:9", 1147022, 21604}
  }
 *)
 (*NotebookFileOutline
